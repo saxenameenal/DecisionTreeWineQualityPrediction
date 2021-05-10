@@ -1,6 +1,6 @@
 # DecisionTreeWineQualityPrediction
 
-The aim of this C++ program is to predict the wine quality rating of a wine sample, based on object features.
+The aim of this C++ program is to predict the wine quality rating of a wine sample, based on objective features.
 The predictor function will be constructed as a decision tree, and a decision learning tree algorithm is applied to the continuous data provided as input.
 
 Three main algorithms are utilised, the first creates a decision learning tree that recursively calls itself and creates new nodes upon evaluating specific conditions. 
